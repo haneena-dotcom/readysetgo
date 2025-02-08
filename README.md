@@ -75,14 +75,10 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (18)](https://github.com/user-attachments/assets/e284c772-995f-414d-9fed-689f89750697)(sign up )
+![Screenshot (20)](https://github.com/user-attachments/assets/45a81d62-6439-468c-8010-07cd392fd76a)(home page)
+![Screenshot (21)](https://github.com/user-attachments/assets/4afe2820-c8b0-4763-8119-dfb8ad5fb89f)(result)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -110,18 +106,13 @@ For Hardware:
 ![Final](Add photo of final product here)
 *Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [fathima haneena]: [Specific contributions]
+- [adhila jabeen N]: [Specific contributions]
+- [fidha EK]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
