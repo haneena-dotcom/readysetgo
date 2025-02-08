@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Preferences</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+    <div class="logo">
+        <div class="images\travel.jpg"></div>
+    </div>
+    
+    <!-- Header Section -->
+    <header>
+        <div class="logo">
+            <h1>Travel Your Way</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Destinations</a></li>
+                <li><a href="#">Activities</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h2>ReadySetGo</h2>
+            <p>"Explore more, spend less, travel greener! Your go-to guide for budget-friendly, eco-conscious adventures. Discover affordable stays, sustainable tips, and unforgettable experiences—because great travel shouldn’t cost the earth!" Customize your trip with your personal preferences.</p>
+            <a href="#preferences" class="btn">Get Started</a>
+        </div>
+    </section>
+
+    <!-- User Preferences Section -->
+    <section id="preferences" class="preferences">
+        <h2>Choose Your Preferences</h2>
+        <form id="tripForm" action="#" method="POST">
+            <!-- Destination Preferences -->
+            <div class="input-group">
+                <label for="destination">Preferred Destination</label>
+                <select id="destination" name="destination">
+                    <option value="Malappuram">Malappuram</option>
+                    <option value="Ernakulam">Ernakulam</option>
+                    <option value="Idukki">Idukki</option>
+                    <option value="Kottayam">Kottayam</option>
+                    <option value="Thiruvananthapuram">Thiruvananthapuram</option>
+                    <option value="Kozhikode">Kozhikode</option>
+                    <option value="Alappuzha">Alappuzha</option>
+                    <option value="Palakkad">Palakkad</option>
+                </select>
+            </div>
+
+            <!-- Activity Preferences -->
+            <div class="input-group">
+                <label for="activities">Preferred Activities</label>
+                <select id="activities" name="activities">
+                    <option value="sightseeing">Sightseeing</option>
+                    <option value="adventure">Adventure</option>
+                    <option value="relaxation">Relaxation</option>
+                    <option value="cultural experience">Cultural Experience</option>
+                </select>
+            </div>
+
+            <!-- Budget Preferences -->
+            <div class="radio-group">
+                <label>Budget</label><br>
+                <input type="radio" value="500" name="budget"> Below 500 <br>
+                <input type="radio" value="1000" name="budget"> Below 1000 <br>
+                <input type="radio" value="2000" name="budget"> Below 2000 <br>
+                <input type="radio" value="2001" name="budget"> Above 2000 <br>
+            </div>
+
+            <button type="submit" class="btn">Find My Trip</button>
+        </form>
+
+        <div id="results"></div> <!-- For displaying results -->
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 Travel Your Way. All rights reserved.</p>
+    </footer>
+
+    <script src="home.js"></script>
+</body>
+</html>

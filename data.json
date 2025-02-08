@@ -1,0 +1,44 @@
+{
+    "malappuram" : [
+        {
+            "name": "teak museum",
+            "activity" : "sightseeing",
+            "price": 500
+        },
+        {
+            "name": "Kodikuthi",
+            "activity" : "adventure",
+            "price": 200
+        },
+        {
+            "name":"kottakunnu",
+            "activity":"relaxation",
+            "price":300
+        }
+
+    ],  
+    "Ernakulam"  : [
+        {
+        "name": "wonderla",
+        "activity" : "adventure",
+        "price":1500
+        },
+        {
+            "name":"fort kochi",
+            "activity":"relaxation",
+            "price":1000
+        },
+        {
+            "name":"puthuvype beach",
+            "activity":"sightseeing",
+            "price":800
+        },
+        {
+            "name":"Jew town",
+            "activity":"cultural experience",
+            "price":1800
+        }
+    ]
+}
+
+   
