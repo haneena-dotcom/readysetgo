@@ -11,7 +11,7 @@
 - Member 3: fathima Haneena  - Al jamia Arts and science college perithalmanna
 
 ### Hosted Project Link
-https://BudTrip.vercel.app/#
+https://readysetgo.vercel.app/#
 
 ### Project Description
 "Explore more, spend less, travel greener! Your go-to guide for budget-friendly, eco-conscious adventures.
