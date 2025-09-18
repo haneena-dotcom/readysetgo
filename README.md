@@ -110,9 +110,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [fathima haneena]: [Specific contributions]
-- [adhila jabeen N]: [Specific contributions]
-- [fidha EK]: [Specific contributions]
+- [Fathima Haneena]: [Specific contributions]
+- [Adila Jabeen N]: [Specific contributions]
+- [Fidha EK]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
